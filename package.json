@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": {["id3", "mp3", "music"]},
+  "keywords": {"id3", "mp3", "music"},
   "author": {"Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)"},
   "license": "=",
   "homepage": { "https://github.com/RichardLitt/extract-id3-tags-from-mp3s" }
   "dependencies": {
     "musicmetadata": "^2.0.4"
-  }
+  }  hi Adam
 }
