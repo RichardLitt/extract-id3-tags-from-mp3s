@@ -7,7 +7,7 @@
     "https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
   },
   "bugs":{
-    "url:"https://github.com/RichardLitt/extract-id3-tags-from-mp3s",
+    "url":"https://github.com/RichardLitt/extract-id3-tags-from-mp3s",
     "email":"richard.littauer@gmail.com"
          },
   "license": "MIT",
@@ -15,7 +15,7 @@
   "main":"index.js",
   "repository":{
     "type":"git",
-    "url:"https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
+    "url":"https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
   }
   "scripts":{
     "test": "echo \"Error: no test specified\" && exit 1"
