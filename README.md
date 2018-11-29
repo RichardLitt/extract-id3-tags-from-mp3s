@@ -15,3 +15,4 @@ Questions? Open an issue!
 Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ##License
+[MIT](LICENSE) © 2018 Burnt Fen Creative LLC.
