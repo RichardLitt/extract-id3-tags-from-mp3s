@@ -1,4 +1,4 @@
-# extract-id3-tags-from-mp3s
+# Extract-id3-tags-from-mp3s
 This program extracts id3 tags from an mp3 file, allowing automated metadata collection
 
 ## To install
