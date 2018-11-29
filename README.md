@@ -1,18 +1,18 @@
-#extract-id3-tags-from-mp3s
+# extract-id3-tags-from-mp3s
 This program extracts id3 tags from an mp3 file, allowing automated metadata collection
 
 ## To install
 Instructions on how to install
 
-##Usage
+## Usage
 Instructions on how to use
 
-##Contribute
+## Contribute
 If you'd like to contribute, edit, or copy them, feel free to do so!
 
 Questions? Open an issue!
 
 Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-##License
+## License
 [MIT](LICENSE) © 2018 Burnt Fen Creative LLC.
