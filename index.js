@@ -1,11 +1,32 @@
-var fs = require('fs');
-var mm = require('musicmetadata');
+const fs = require('fs')
+const mm = require('musicmetadata')
 
-var parser = mm(fs.createReadStream('src/Venice\ 182-.mp3'), function (err, metadata) {
-  if (err) throw err;
-  mm(fs.createReadStream('src/Venice\ 182-.mp3'), { duration: true }, function (err, metadata) {
-    if (err) throw err
-    console.log(metadata)
-  });
-  console.log(metadata);
-});
+const showMetadada = function (input) {
+  input = cleanInput(input)
+
+  return mm(fs.createReadStream(input), function (err, metadata) {
+    if (err) {
+      throw err
+    }
+    return mm(fs.createReadStream(input), { duration: true }, function (err, metadata) {
+      if (err) throw err
+      console.log(metadata)
+    })
+  })
+}
+
+const cleanInput = function (input) {
+  if (typeof input !== 'string' && !Buffer.isBuffer(input)) {
+    console.log('You need to povide a string or buffer as an argument!')
+    process.exit(1)
+  }
+
+  if (!input.endsWith('mp3')) {
+    console.log('You need to provide an .mp3 file!')
+    process.exit(1)
+  }
+
+  return input
+}
+
+module.exports = showMetadada(process.argv[2])
