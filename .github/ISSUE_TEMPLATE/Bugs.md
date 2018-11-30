@@ -1,3 +1,9 @@
+---  
+name: Bug Report  
+about:  when something isn't working as expected  
+
+---
+
 ## Bug Report
 
 **Current Behavior**  
