@@ -10,7 +10,7 @@
  - [ ] Which issues, if any, you're addressing
 
 ## Reporting issues
-* If you've found an issue and would like to submit it, we're looking for [bugs], [feature requests], as well as [support questions].
+* If you've found an issue and would like to submit it, we're looking for [bugs], and [feature requests], but we're also here for [support questions].
 
 ## Contact us
 * Feel free to reach out to us! you can find us on (channel) at (space).
