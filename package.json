@@ -6,7 +6,7 @@
   "bugs": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues",
   "license": "MIT",
   "keywords": ["id3","mp3","floss","music"],
-  "author": {"Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)"},
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
   "main":"index.js",
   "repository":{
     "type":"git",
