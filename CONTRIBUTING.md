@@ -2,7 +2,7 @@
 
 ## Where to start
 * Take a gander through the source code to familiarize yourself with the extractor.
-* If you're not sure where to start, issues labeled   [help wanted](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/labels/help%20wanted) are a good jumping off point.
+* If you're not sure where to start, issues labeled   [help wanted](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/labels/help%20wanted), or [good first issue](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/labels/good%20first%20issue) are good jumping off points.
 
 ## Pull requests
 If you'd like to make a pull request, make sure to include the following:
