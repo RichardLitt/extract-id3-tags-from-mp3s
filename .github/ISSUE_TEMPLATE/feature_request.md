@@ -1,3 +1,9 @@
+---  
+name: Feature request  
+about: I have a suggestion that I think will improve id3 tags
+
+---  
+
 ## Feature Request
 
 **Will your feature request address a problem?**  
