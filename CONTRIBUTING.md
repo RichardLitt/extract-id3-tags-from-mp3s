@@ -9,6 +9,8 @@ If you'd like to make a pull request, make sure to include the following:
  - [ ] Description of the change you've made/added/introduced.
  - [ ] Which issues, if any, you're addressing.
 
+For rather large pull requests, we encourage [discussion](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/2) beforehand.
+
 ## Reporting issues
 If you've found an issue and would like to submit it, we're looking for [bugs](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=Bugs.md), [feature requests](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=feature_requests.md),  or [support questions](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=support_question.md).
 
