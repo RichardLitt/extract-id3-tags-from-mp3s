@@ -1,22 +1,26 @@
 {
-  "name":"extractor",
-  "version":"1.0.0",
-  "description":"code extracts id3 information from mp3 files for metadata use",
+  "name": "extractor",
+  "version": "1.0.0",
+  "description": "code extracts id3 information from mp3 files for metadata use",
   "homepage": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s",
   "bugs": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues",
   "license": "MIT",
-  "keywords": ["id3","mp3","floss","music"],
-  "author": {"Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)"},
-  "main":"index.js",
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
+  "keywords": [
+    "id3",
+    "mp3",
+    "floss",
+    "music"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
   },
-  "scripts":{
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-     "dependencies": {
-    "musicmetadata": "^2.0.4"
-  },
-
+  "dependencies": {
+    "musicmetadata": "^2.0.5"
+  }
 }
