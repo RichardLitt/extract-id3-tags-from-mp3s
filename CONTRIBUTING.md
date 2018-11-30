@@ -13,7 +13,7 @@ If you'd like to make a pull request, make sure to include the following:
 If you've found an issue and would like to submit it, we're looking for [bugs](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=Bugs.md), [feature requests](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=feature_requests.md),  or [support questions](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/new?template=support_question.md).
 
 ## Contact us
-Feel free to reach out to us! you can find us on (channel) at (space).
+Feel free to reach out to us! you can find us on [Slack](https://mntnr.slack.com/shared_invite/MTcxMDc5MTcxMjA1LTE0OTI1NDQ2OTQtYmMyZTc1N2Q2Ng).
 
 
 Please abide by the [code of conduct](CODE_OF_CONDUCT.md).
