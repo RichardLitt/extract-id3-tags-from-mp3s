@@ -10,7 +10,7 @@ Instructions on how to use
 ## Contribute
 If you'd like to contribute, edit, or copy them, feel free to do so!
 
-Questions? Open an issue!
+Questions? We have a [forum](https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues/2) for open discussion! You can also open a new request if you'd like.
 
 Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
