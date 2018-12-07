@@ -1,15 +1,25 @@
 {
-  "name": "extractor",
+  "name": "extract-id3-tags-from-mp3s",
   "version": "1.0.0",
-  "description": "",
+  "description": "Extract id3 tags from mp3 files",
+  "homepage": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s",
+  "bugs": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues",
+  "license": "MIT",
+  "keywords": [
+    "id3",
+    "mp3",
+    "music"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
-  "license": "=",
   "dependencies": {
-    "musicmetadata": "^2.0.4"
+    "musicmetadata": "^2.0.5"
   }
 }
