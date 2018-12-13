@@ -1,7 +1,7 @@
 {
   "name": "extract-id3-tags-from-mp3s",
   "version": "1.0.0",
-  "description": "Extract id3 tags from mp3 files",
+  "description": "Code extracts id3 information from mp3 files for metadata use",
   "homepage": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s",
   "bugs": "https://github.com/RichardLitt/extract-id3-tags-from-mp3s/issues",
   "license": "MIT",
@@ -21,5 +21,7 @@
   },
   "dependencies": {
     "musicmetadata": "^2.0.5"
-  }
+  },
+  "contributors":
+  ["Adam Palazzo <palazzo.adam@gmail.com>", "Juliana Dixon <Juliana@burntfen.com"]
 }
