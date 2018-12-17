@@ -25,4 +25,4 @@ Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-[MIT](LICENSE) © 2018 Rihcard Littauer
+[MIT](LICENSE) © 2018 Richard Littauer
