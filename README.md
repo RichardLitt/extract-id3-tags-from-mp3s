@@ -5,14 +5,16 @@
 ## Install
 
 ```sh
-$ npm install extract-id3-tags-from-mp3s
+$ npm install --global extract-id3-tags-from-mp3s
 ```
+
+This will install a global executable.
 
 ## Usage
 
 Simply run the program with an mp3 file, such as:
 ```sh
-$ node extract-id3-tags-from-mp3s <mp3 file>
+$ extract-id3-tags-from-mp3s <mp3 file>
 ```
 
 ## Contribute

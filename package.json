@@ -10,6 +10,7 @@
     "mp3",
     "music"
   ],
+  "bin": "index.js",
   "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
   "main": "index.js",
   "repository": {
